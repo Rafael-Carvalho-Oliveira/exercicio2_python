@@ -7,6 +7,6 @@ produto = float(input('Digite um número: '))
 desconto = produto /10
 resultado = produto - desconto
 
-# Imprime o resultado do desconto
+# Imprime o resultado com o desconto
 
 print(f'O produto com desconto é: {resultado}')
